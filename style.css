@@ -17,6 +17,9 @@ body {
     height: 150px;
     border: 1px solid black;
 }
+.caja5 {
+    background-color: aqua;
+}
 
 @media (max-width: 768px) {
     .eliminarCel {
